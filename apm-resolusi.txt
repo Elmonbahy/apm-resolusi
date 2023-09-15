@@ -1,3 +1,4 @@
 APM RESOLUSI
 - Membuat Website Informasi
 -dabase
+-kedepannya bisa di android
